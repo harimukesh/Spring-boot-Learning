@@ -16,10 +16,6 @@ public class SpringBootPracticeApplication {
         Alien obj = (Alien) contextFactory.getBean("alien");
         obj.speak();
 
-
-
-
-
     }
 
 }
